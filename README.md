@@ -1,5 +1,6 @@
 # fEBA
 Empirical Frequency Band Analysis for Functional Time Series
+
 Author: Scott A. Bruce
 
 ## Description: 
