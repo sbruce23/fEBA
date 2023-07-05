@@ -1,5 +1,4 @@
-# fEBA
-Empirical Frequency Band Analysis for Functional Time Series
+# Efficient Algorithm for Frequency-Domain Dimension Reduction of Functional Time Series via Adaptive Frequency Band Learning
 
 Author: Scott A. Bruce
 
