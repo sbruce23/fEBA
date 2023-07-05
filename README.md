@@ -1,7 +1,5 @@
 # Efficient Algorithm for Frequency-Domain Dimension Reduction of Functional Time Series via Adaptive Frequency Band Learning
 
-Author: Scott A. Bruce
-
 ## Description: 
 Instructions for implementing empirical band analysis
 for nonstationary functional time series
